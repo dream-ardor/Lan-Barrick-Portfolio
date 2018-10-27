@@ -9,7 +9,7 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>Lan Barrick</h1>
-                <p>Welcome to my website. You can also find me at <a href="https://www.dreamardor.com">Dream Ardor</a>
+                <p>Welcome to my website. You can also find me at</p> <a href="https://www.dreamardor.com">Dream Ardor</a>
             </div>
         </div>
         <nav>
